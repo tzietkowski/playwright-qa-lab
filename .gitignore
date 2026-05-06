@@ -12,3 +12,23 @@ test-results/
 # OS / editor
 .DS_Store
 .vscode/
+
+
+# Python
+.venv/
+__pycache__/
+.pytest_cache/
+
+# Node
+node_modules/
+playwright-report/
+test-results/
+
+# Playwright traces
+*.zip
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
